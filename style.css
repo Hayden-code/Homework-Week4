@@ -1,0 +1,50 @@
+h1{
+    font-size: 36px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: lightcoral;
+}
+h2 {
+    font-size: 28px;
+}
+h3{
+    font-size: 22px;
+}
+
+.quizContainer {
+    margin: auto;
+    width: 50%;
+    padding: 5px;
+    border: 3px solid rgb(113, 113, 250);
+    text-align: center;
+}
+
+.btn {
+    background-color: blueviolet;
+    color: whitesmoke;
+    font-size: 16px;
+    padding: 10px;
+    margin: 5px;
+}
+
+.btn:hover {
+    background-color: violet;
+}
+
+#HS:hover {
+    color: lightskyblue;
+}
+
+#submitContainer {
+    display: flex;
+    align-items: center;
+}
+
+#nickname {
+    font-size: 16px
+}
+
+#questionContainer{
+    font-size: 30px;
+    color: crimson;
+}
+
